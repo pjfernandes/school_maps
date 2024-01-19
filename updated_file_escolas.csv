@@ -1,6 +1,6 @@
 UNIDADE,ENDERECO,POLO,MODALIDADE,Latitude,Longitude
-E.M. Anísio Teixeira,"Trav. Manoel Continentino, 31 - São Domingos ",1,1º e 2º Ciclos  INTEGRAL,-22.898835435587827,-43.12771217476819
-E.M. Ayrton Senna                                                   ,"R. Altamiro José Cabral, s/nº - Morro do Estado",1,1º e 2º ciclo ,-22.8989702,-43.1184872
+E.M. Anísio Teixeira,"Trav. Manoel Continentino, 31 - São Domingos ",1,1º e 2º Ciclos INTEGRAL,-22.898835435587827,-43.12771217476819
+E.M. Ayrton Senna                                                   ,"R. Altamiro José Cabral, s/nº - Morro do Estado",1,1º e 2º ciclo,-22.8989702,-43.1184872
 E.M. Dr. Alberto Francisco Torres                              ,"R. Prof. Ismael Coutinho, 88 - Centro                  ",1,"1º, 2º, 3º e 4º ciclo e EJA de 1º e 2º ciclos",-22.8954011,-43.1169652
 E.M. Maestro Heitor Villa Lobos   ,"R. Salo Brand, s/nº - Ilha da Conceição",1,"1º, 2º, 3º e 4º ciclo e EJA de 1º e 2º ciclos",-22.8730054,-43.1155238
 E.M. Nossa Senhora da Penha                ,"Lad. Major Rocha, s/nº - Ponta da Areia",1,1º e 2º ciclos,-22.8804886,-43.1233042
@@ -20,10 +20,10 @@ E.M. Ernani Moreira Franco                ,"R. Bonfim, s/nº – Fonseca",2,Ed. 
 E.M. Jacinta Medela                                  ,"R. Tenente Osório, 10 – Fonseca",2,1º e 2º ciclos,-22.8790398,-43.0918319
 E.M. Noronha Santos                        ,"R. Henrique Lage, 184 – Fonseca",2,Ed. Infantil/INTEGRAL 1º e 2º ciclos/PARCIAL,-22.8728011,-43.0843347
 E.M. Rachide da G. Salim Saker                 ,"R. Jandira Pereira, 620/623 - Stª Bárbara",2,3º e 4º ciclos,-22.87637179439735, -43.04908830283588
-NAEI Vila Ipiranga             ,"R. Tenente Osório, 73 – Fonseca",2,INTEGRAL De 0 a 5 anos    ,-22.878434907653634,-43.09207030706065
+NAEI Vila Ipiranga             ,"R. Tenente Osório, 73 – Fonseca",2,INTEGRAL De 0 a 5 anos,-22.878434907653634,-43.09207030706065
 UMEI Hermógenes Reis                     ,"R. Nestor Perlingeiro, s/nº - Stª Bárbara",2,INTEGRAL De 2 a 5 anos,-22.8751323,-43.0489093
 UMEI Julieta Botelho                        ,"Alam. São Boaventura, 30 – Fonseca",2,PARCIAL De 2 a 5 anos,-22.8805094,-43.1085542
-UMEI Marly Sarney                        ,"R. Ver. José Mª Cavalcanti, 866 - Stª Bárbara ",2,INTEGRAL De 0 a 5 anos   ,-22.8768636,-43.0487285
+UMEI Marly Sarney                        ,"R. Ver. José Mª Cavalcanti, 866 - Stª Bárbara ",2,INTEGRAL De 0 a 5 anos,-22.8768636,-43.0487285
 UMEI Profª  Marilza da Conceição Rocha Medina      ,"Rua Dr. Conrado Barbosa, s/nº - V. Ipiranga   ",2,INTEGRAL De 0 a 5 anos,-22.87718762053174,-43.095581512961054
 UMEI Profª Regina Leite Garcia,"Rua Teixeira de Freitas, 380 – Fonseca",2,INTEGRAL De 2 a 5 anos,-22.87463908683782,-43.07472535356708
 UMEI Renata Gonçalves Magaldi  ,"Travessa Aires Lemos, s/nº – Fonseca",2,INTEGRAL De 1 a 5 anos,-22.8778768,-43.0777988
@@ -53,7 +53,7 @@ UMEI Almir Garcia da Silva            ,"R. Profº Roberto Lira, 09 – Maceió",
 UMEI Elenir Ramos Meirelles  ,"R. das Flores, 99 – Badu",4,INTEGRAL De 2 a 5 anos,-22.9013984,-43.0520056
 UMEI Gabriela Mistral     ,"Est. Caetano Monteiro, 820 – Pendotiba",4,INTEGRAL De 3 a 5 anos,-22.9062347,-43.0535241
 UMEI Gov. Eduardo Campos,"R. Aurora Ribeiro, 8-A - Maria Paula",4,INTEGRAL De 2 a 5 anos,-22.9143121,-43.0935836
-UMEI Profª  Lisaura Machado Ruas  ,"R. Arthur Bento Moura, 79 – Badu",4,INTEGRAL De 0 a 5 anos           ,-22.90286076799695,-43.05566621902919
+UMEI Profª  Lisaura Machado Ruas  ,"R. Arthur Bento Moura, 79 – Badu",4,INTEGRAL De 0 a 5 anos   ,-22.90286076799695,-43.05566621902919
 UMEI Vinícius de Moraes         ,"Est. Washington Luiz, Qd 2, Lt 1, 2 e 3 – Sapê",4,INTEGRAL 3 a 5 anos PARCIAL 1º ano,-22.8972822,-43.0591131
 E.M. Adelino Magalhães                   ,"R. Dr. Nelson Penna, 17 – Engenhoca",5,Ed. Infantil 1º e 2º ciclos,-22.8740097,-43.09445059999999
 E.M. Altivo César                                       ,"R. Dr. Luiz Palmier, 25 – Barreto",5,3º e 4º ciclos EJA todos os ciclos,-22.8645492,-43.0996887
@@ -63,21 +63,21 @@ E.M. João Brazil                                            ,"Lot. Bento Pestan
 E.M. Mestra Fininha                                               ,"R. Dr. Luiz Palmier, 100 – Barreto",5,1º e 2º ciclos,-22.8642921,-43.098793
 E.M. Prof. André Trouche                       ,"R. Dr. Luiz Palmier, 100 – Barreto",5,1º e 2º ciclos,-22.8647079,-43.098792
 E.M. Tiradentes                                          ,"R. Dr. March, 628 - Tenente Jardim",5,Ed. Infantil 1º e 2º ciclos,-22.8635329,-43.0844153
-UMEI Jacy Pacheco ,"R. Monsenhor Reader, 150 – Barreto",5,INTEGRAL 2 a 5 anos   PARCIAL   1º ciclo,-22.8665657,-43.1082607
+UMEI Jacy Pacheco ,"R. Monsenhor Reader, 150 – Barreto",5,INTEGRAL 2 a 5 anos PARCIAL 1º ciclo,-22.8665657,-43.1082607
 UMEI Neuza Brizola              ,"R. Prof. João Brasil, 1.960 – Engenhoca",5,INTEGRAL De 2 a 5 anos,-22.8663384,-43.0892993
-UMEI Profº Iguatemi Coquinot de Alcântara Nunes   ,"R. Orêncio de Freitas, s/nº - M. dos Marítimo",5,INTEGRAL De 0 a 5 anos       ,-22.9617723,-43.0327559
+UMEI Profº Iguatemi Coquinot de Alcântara Nunes   ,"R. Orêncio de Freitas, s/nº - M. dos Marítimo",5,INTEGRAL De 0 a 5 anos ,-22.9617723,-43.0327559
 UMEI Rosalina de Araújo          ,"R. Galvão, 193 – Barreto",5,PARCIAL De 3 a 5 anos,-22.8646026,-43.1002124
 E.M. Helena Antipoff                                     ,"Av. Rui Barbosa, 710 - São Francisco",6,1º e 2º ciclos EJA 1º e 2º ciclos,-22.9129219,-43.07863040000001
 E.M. Julia Cortines                                                     ,"R. Lopes Trovão,s/nº – Icaraí",6,1º e 2º ciclos,-22.9355041,-43.102706
 E.M. Padre Leonel Franca                            ,"R. Santos Moreira, 58 - Santa Rosa",6,1º e 2º ciclos,-22.9036756,-43.0909416
 E.M. Prof. Paulo de Almeida  Campos                                        ,"R. Gal. Pereira da Silva, 50 – Icaraí",6,1º e 2º ciclos EJA 1º e 2º ciclos,-22.9047364,-43.113144
-E.M. Profª Elvira Lúcia Esteves de Vasconcelos                                                            ,"Trav. Emílio Andrada, 2 – Icaraí",6,1º ciclo INTEGRAL                  ,-22.9110672,-43.103571
+E.M. Profª Elvira Lúcia Esteves de Vasconcelos                                                            ,"Trav. Emílio Andrada, 2 – Icaraí",6,1º ciclo INTEGRAL,-22.9110672,-43.103571
 E.M. Profª Lúcia Mª da Silveira Rocha     ,"R. Carlos Ermelindo Marins, 34 – Jurujuba",6,Ed. Infantil 1º e 2º ciclos,-22.93201641741361,-43.11567824551913
 E.M. Profª Mª Ângela Moreira Pinto   ,"R. Tupiniquis, 392 - São Francisco",6,1º e 2º ciclos,-22.916620561867866,-43.091241999025456
 UMEI Darcy Ribeiro,"AV.Pref. Silvio Picanço, 115, Charitas",6,Ed. Infantil/1º ano INTEGRAL,-22.9342476,-43.0997772
 UMEI Geraldo Montedônio Bezerra de Menezes,"R. Dr. Mario Viana, 589 - Santa Rosa",6,INTEGRAL De 2 a 5 anos,-22.905128613511106, -43.090642662717876
 UMEI Maria Luiza da Cunha Sampaio                  ,"R. Presidente Roosevelt, 49, São Francisco",6,INTEGRAL De 3 a 5 anos,-22.9143121,-43.0935836
-UMEI Profª Margareth Flores                             ,"R. Albino Pereira, s/nº - Grota do Surucucu",6,INTEGRAL De 0 a 5 anos       ,-22.9102306,-43.079192
+UMEI Profª Margareth Flores                             ,"R. Albino Pereira, s/nº - Grota do Surucucu",6,INTEGRAL De 0 a 5 anos,-22.9102306,-43.079192
 UMEI Senador  Vasconcellos Torres     ,"R. Santos Moreira, 58 – Santa Rosa",6,INTEGRAL De 2 a 5 anos,-22.90344993650836,-43.090862318537184
 E.M. Eulália da Silveira Bragança                  ,"Estrada Frei Orlando, s/nº – Jacaré",7,1º e 2º ciclos,-22.938029630821283,-43.05725357806104
 E.M. Francisco Portugal Neves                 ,"R. Manuel Pacheco de Carvalho, 14 - Piratininga ",7,"2º, 3º e 4º ciclos EJA (Todos os ciclos)",-22.9424301,-43.0568199
@@ -91,5 +91,5 @@ UMEI Lizete Fernandes Maciel,"Estrada Frei Orlando, 325 – Jacaré",7,INTEGRAL 
 UMEI Olga Benário Prestes            ,"Praça Irene Matos, s/nº - Engenho do Mato",7,INTEGRAL De 2 a 5 anos,-22.9354314,-43.008036
 UMEI Profª Áurea T. P. de Menezes                    ,"R. Rubens Assis Bonfim, 39 – Itaipu",7,INTEGRAL De 3 a 5 anos,-22.935199479834097,-43.022861818771524
 UMEI Profª Nina Rita Torres,"Av. Dr. Acúrcio Torres, 691 – Piratininga",7,INTEGRAL De 2 a 5 anos,-22.9519311,-43.0861336
-UMEI Profª Odete Rosa da Mota                       ,"Estrada Francisco da Cruz Nunes, s/n Itaipu",7,INTEGRAL De 0 a 5 anos     ,-22.9539,-43.0290674
+UMEI Profª Odete Rosa da Mota                       ,"Estrada Francisco da Cruz Nunes, s/n Itaipu",7,INTEGRAL De 0 a 5 anos,-22.9539,-43.0290674
 UMEI Vale Feliz,"R. Dr. Renato Pereira Machado, 33 – Lote 11A / Quadra A – Engenho do Mato",7,,-22.9425625,-43.0178636
